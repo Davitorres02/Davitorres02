@@ -1,23 +1,21 @@
 ## Hi there 👋
  
 🔭 Estou estudando a disciplina Programação Orientada a Objetos.
+🌱 Atualmente, estou aprendendo mais sobre Java.
 
-🌱
-Atualmente, estou aprendendo sobre  Java. 
-👯 I’m looking to collaborate on ...
-Estou aberto a colaborar em projetos relacionados a automação de processos ou em qualquer projeto de desenvolvimento full-stack. Se você precisar de ajuda com alguma tecnologia que eu tenha experiência, adoraria contribuir!
+🤝 Estou aberto a colaborar em...
+Projetos relacionados à automação de processos ou qualquer projeto de desenvolvimento de software. Se você precisar de ajuda com alguma tecnologia que eu conheça, ficarei feliz em contribuir!
 
-🤔 I’m looking for help with ...
-Estou procurando ajuda para entender mais sobre arquiteturas de microserviços e como implementar práticas de DevOps em projetos de grande escala.
+🤔 Estou procurando ajuda para...
+Entender melhor sobre arquiteturas de microserviços e como aplicar práticas de DevOps em projetos de grande escala.
 
-💬 Ask me about ...
-Você pode me perguntar sobre JavaScript, React, Node.js, ou qualquer coisa relacionada a desenvolvimento web e boas práticas de código!
+💬 Pode me perguntar sobre...
+JavaScript, ou qualquer assunto relacionado a desenvolvimento web e boas práticas de código!
 
-📫 How to reach me: ...
-Você pode me encontrar no LinkedIn [link do seu perfil] ou me mandar um e-mail em [seu e-mail].
+📫 Como falar comigo:
+Você pode me enviar um e-mail: davi.torres05@aluno.ifce.edu.br
 
-😄 Pronouns: ...
-Ele/Dele (ou seus pronomes preferidos).
+😄 Pronomes: Ele
 
-⚡ Fun fact: ...
+⚡ Curiosidade:
 Adoro jogar xadrez e já participei de alguns torneios amadores!
